@@ -46,6 +46,6 @@ switch(opção){
     case 4: console.log("doutorado"); break;
     default: console.log("escolaridade não definida");break;
 }
-    */
+    
 
  
