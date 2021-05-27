@@ -3,12 +3,12 @@ Programas de javascripts que demonstra estrutura de decisão
  */
 
 //criando variaveis var, let, const
-
+/*
 var letra="javascript";
 
 let numero1=10, numero2=25;
 //+soma -subtração *multplicação /divisão
-/*
+
 console.log(numero1+numero2);
 console.log(numero1-numero2);
 console.log(numero1*numero2);
