@@ -5,7 +5,7 @@ lista[1]="carne";
 lista[2]="frango";
 lista[3]="porco";
 lista[4]="maçã";
-lista[5]="abacate";
+
 
 
 lista.push("uva"); //acrescenta no final
